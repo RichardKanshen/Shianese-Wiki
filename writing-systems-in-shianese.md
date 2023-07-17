@@ -18,7 +18,7 @@ Shianese utilizes multiple writing systems to represent its sounds and character
 
 * [**Hiragana**](writing-systems-in-shianese.md#hiragana)
 * [**Katakana**](writing-systems-in-shianese.md#katakana)
-* **Romaji**
+* [**Romaji**](writing-systems-in-shianese.md#romaji)
 * **Special Characters**
 
 {% hint style="success" %}
@@ -61,3 +61,6 @@ Katakana is a Japanese phonetic script, used in Shianese. It consists of charact
 | _**r**_ |  ラ  |   リ   |  ル  |   レ   |  ロ  |     |
 | _**w**_ |  ワ  | **ヰ** |     | **ヱ** |  ヲ  |     |
 
+## Romaji
+
+Romaji refers to the Latin alphabet used to represent Kana characters. It is used to write Kana using the Roman alphabet. Romaji is often used for transliteration purposes and is particularly helpful for people who cannot read Kana.
