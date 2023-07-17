@@ -16,7 +16,7 @@ layout:
 
 Shianese utilizes multiple writing systems to represent its sounds and characters. These writing systems include:&#x20;
 
-* **Hiragana**
+* [**Hiragana**](writing-systems-in-shianese.md#hiragana)
 * **Katakana**
 * **Romaji**
 * **Special Characters**
