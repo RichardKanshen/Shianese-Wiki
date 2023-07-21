@@ -41,7 +41,7 @@ Similarly to Japanese, Hiragana characters are often used for native Shianese wo
 
 Katakana is a Japanese phonetic script, used in Shianese. It consists of characters, that primarily represent consonant-vowel combinations. Unlike in Japanese, Shianese naturally uses obsolete katakana characters (marked in bold), as well as L- consonant syllables, which are not used in Japanese.
 
-Katakana is primarily used for loanwords, onomatopoeic expressions, foreign names, and emphasis.
+Katakana is primarily used for loanwords, onomatopoeic expressions, proper nouns, and foreign names.
 
 |    　    |  a  |   i   |  u  |   e   |  o  |  ∅  |
 | :-----: | :-: | :---: | :-: | :---: | :-: | :-: |
