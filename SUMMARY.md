@@ -1,4 +1,7 @@
 # Table of contents
 
 * [Welcome to The Shianese Wiki](README.md)
-* [Writing Systems In Shianese](writing-systems-in-shianese.md)
+
+## basics
+
+* [Writing Systems In Shianese](basics/writing-systems-in-shianese.md)
