@@ -19,7 +19,6 @@ Shianese utilizes multiple writing systems to represent its sounds and character
 * [**Hiragana**](writing-systems-in-shianese.md#hiragana)
 * [**Katakana**](writing-systems-in-shianese.md#katakana)
 * [**Romaji**](writing-systems-in-shianese.md#romaji)
-* [**Special Characters**](writing-systems-in-shianese.md#special-characters)
 
 {% hint style="warning" %}
 When referring to abbreviated words or initialisms that are usually not translated, such as UFO, you should always use uppercase Romaji.
@@ -65,17 +64,3 @@ Katakana is primarily used for English loanwords, onomatopoeic expressions, prop
 ## Romaji
 
 Romaji refers to the Latin alphabet used to represent Kana characters. It is used to write Kana using the Roman alphabet. Romaji is often used for transliteration purposes, words that are usually not translated and is particularly helpful for people who cannot read Kana.
-
-## Special Characters <a href="#special-characters" id="special-characters"></a>
-
-There are two characters, that serve a special purpose in Shianese. These special characters are Chiisai Tsu and the Japanese Kanji Repetition Sign
-
-### Chiisai Tsu (っ) <a href="#chiisai-tsu" id="chiisai-tsu"></a>
-
-The chiisai tsu, or small tsu, is a special character in Shianese. It represents a geminate or doubled consonant sound. When a consonant is followed by the chiisai tsu, the consonant sound is prolonged or repeated.
-
-In Shianese, the chiisai tsu is reserved for various operators, such as った (Shianese version of the English **'s**). Additionally, the chiisai tsu can be part of plural form suffixes, indicating the plurality of certain words.
-
-### Kanji Repetition Sign (々)
-
-The kanji repetition sign is another special character used in Shianese. Despite its original name, it is not used to repeat Kanji characters, _as Shianese does not incorporate Kanji in its writing system_. Instead, the kanji repetition sign is employed to shorten plurality suffixes.
