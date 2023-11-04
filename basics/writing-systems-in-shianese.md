@@ -59,4 +59,4 @@ Katakana is a Japanese phonetic script, used in Shianese. It consists of charact
 
 ## Romaji
 
-Romaji refers to the Latin alphabet used to represent Kana characters. It is used to write Kana using the Roman alphabet. Romaji is often used for transliteration purposes, words that are usually not translated and is particularly helpful for people who cannot read Kana.
+Romaji refers to the Latin alphabet used to represent Kana characters. It is used to write Kana using the Roman alphabet. Romaji is particularly helpful for people who cannot read Kana.
